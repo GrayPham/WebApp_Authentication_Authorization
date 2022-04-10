@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp_Authentication_Authorization", "WebApp_Authentication_Authorization\WebApp_Authentication_Authorization.csproj", "{BA583FBC-1B1C-42B6-A647-02471096ACDF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA583FBC-1B1C-42B6-A647-02471096ACDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA583FBC-1B1C-42B6-A647-02471096ACDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA583FBC-1B1C-42B6-A647-02471096ACDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA583FBC-1B1C-42B6-A647-02471096ACDF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FDC7191-2883-480A-A690-EC46CC614DF1}
+	EndGlobalSection
+EndGlobal
